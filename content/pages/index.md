@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    image: images/dianne-ameter.jpg
+    image: images/background.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
